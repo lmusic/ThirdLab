@@ -14,7 +14,6 @@ import (
 )
 
 var _hash string
-var c chan string
 
 func main() {
 	_type := os.Args[1]
